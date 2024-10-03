@@ -19,4 +19,42 @@ Dbank is a decentralized banking application (DApp) built on the Internet Comput
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/softenrj/Dbank--Dapp-.git```
+   git clone https://github.com/softenrj/Dbank--Dapp-.git
+
+2. Navigate to the project directory:
+   ```bash
+   cd dbank
+
+3. Install dependencies::
+    ```bash
+    npm i
+
+## Running the Application
+1. Start the local DFX server:
+   ```bash
+   dfx start
+
+2. Build and deploy the canisters:
+   ```bash
+   dfx deploy
+3. ```bash
+   npm start
+
+4. Open your browser and navigate to the provided URL (usually http://127.0.0.1:3000).
+
+## Usage
+1. Open the application in your browser.
+2. Use the provided interface to check your balance, top up, withdraw, or compound your funds.
+
+## Contributing
+Contributions are welcome! If you'd like to contribute to Dbank, please fork the repository and create a pull request.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Acknowledgments
+
+- **[Internet Computer](https://internetcomputer.org/)**
+- **[Vite](https://vitejs.dev/)**
+- **[Motoko](https://motoko-rs.github.io/motoko/)**
+
