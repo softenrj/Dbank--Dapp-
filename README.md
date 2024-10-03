@@ -56,5 +56,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - **[Internet Computer](https://internetcomputer.org/)**
 - **[Vite](https://vitejs.dev/)**
-- **[Motoko]([https://motoko-rs.github.io/motoko/](https://internetcomputer.org/docs/current/motoko/main/writing-motoko/writing-intro))**
+- **[Motoko]([https://internetcomputer.org/docs/current/motoko/main/writing-motoko/writing-intro])**
 
