@@ -40,7 +40,7 @@ Dbank is a decentralized banking application (DApp) built on the Internet Comput
 3. ```bash
    npm start
 
-4. Open your browser and navigate to the provided URL (usually http://127.0.0.1:3000).
+4. Open your browser and navigate to the provided URL (usually http://localhost:3000).
 
 ## Usage
 1. Open the application in your browser.
